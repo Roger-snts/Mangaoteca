@@ -1,5 +1,5 @@
 
-import 'package:aula_5_biblioteca/models/adicionais_model.dart';
+import 'package:mangaoteca/models/adicionais_model.dart';
 
 class Manga {
   late String titulo;

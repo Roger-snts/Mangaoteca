@@ -1,6 +1,7 @@
-import 'package:aula_5_biblioteca/views/inicio.dart';
-import 'package:aula_5_biblioteca/views/informacoes.dart';
+
 import 'package:flutter/material.dart';
+import 'package:mangaoteca/views/informacoes.dart';
+import 'package:mangaoteca/views/inicio.dart';
 
 void main() {
   runApp(MaterialApp(

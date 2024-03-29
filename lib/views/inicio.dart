@@ -1,7 +1,8 @@
-import 'package:aula_5_biblioteca/data/mangas_data.dart';
-import 'package:aula_5_biblioteca/models/manga_model.dart';
-import 'package:aula_5_biblioteca/widgets/gerar_item.dart';
+
 import 'package:flutter/material.dart';
+import 'package:mangaoteca/data/mangas_data.dart';
+import 'package:mangaoteca/models/manga_model.dart';
+import 'package:mangaoteca/widgets/gerar_item.dart';
 
 // ignore: must_be_immutable
 class Inicio extends StatelessWidget {

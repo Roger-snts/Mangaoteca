@@ -1,6 +1,7 @@
-import 'package:aula_5_biblioteca/models/manga_model.dart';
-import 'package:aula_5_biblioteca/widgets/gerar_linha.dart';
+
 import 'package:flutter/material.dart';
+import 'package:mangaoteca/models/manga_model.dart';
+import 'package:mangaoteca/widgets/gerar_linha.dart';
 
 class Informacoes extends StatelessWidget {
   const Informacoes({super.key});

@@ -1,6 +1,6 @@
 
-import 'package:aula_5_biblioteca/models/adicionais_model.dart';
-import 'package:aula_5_biblioteca/models/manga_model.dart';
+import 'package:mangaoteca/models/adicionais_model.dart';
+import 'package:mangaoteca/models/manga_model.dart';
 
 class MangasData{
   List<Manga> mangas = [

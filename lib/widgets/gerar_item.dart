@@ -1,6 +1,6 @@
 
-import 'package:aula_5_biblioteca/models/manga_model.dart';
 import 'package:flutter/material.dart';
+import 'package:mangaoteca/models/manga_model.dart';
 
 GestureDetector gerarItem (Manga manga, BuildContext context){
   return GestureDetector(
