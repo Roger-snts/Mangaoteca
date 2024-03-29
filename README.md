@@ -1,6 +1,6 @@
 # Mangaoteca
 
-A new Flutter project.
+Um projeto de consulta de alguns mangás para dispositivos móveis.
 
 ## Getting Started
 
