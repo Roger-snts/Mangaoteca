@@ -2,6 +2,8 @@
 
 Um projeto de consulta de alguns mangás para dispositivos móveis.
 
+Acesso WEB: []
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
