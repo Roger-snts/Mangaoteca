@@ -1,4 +1,3 @@
-
 import 'package:flutter/material.dart';
 import 'package:mangaoteca/models/manga_model.dart';
 import 'package:mangaoteca/widgets/gerar_linha.dart';
@@ -54,15 +53,16 @@ class Informacoes extends StatelessWidget {
                         decoration:
                             BoxDecoration(color: Colors.blueGrey.shade100),
                         children: const [
-                          Padding(
-                            padding: EdgeInsets.all(10),
-                            child: TableCell(
-                                child: Text(
-                              "índice",
-                              style: TextStyle(
-                                  fontSize: 18, fontWeight: FontWeight.bold),
-                              textAlign: TextAlign.center,
-                            )),
+                          TableCell(
+                            child: Padding(
+                              padding: EdgeInsets.all(10),
+                              child: Text(
+                                "índice",
+                                style: TextStyle(
+                                    fontSize: 18, fontWeight: FontWeight.bold),
+                                textAlign: TextAlign.center,
+                              ),
+                            ),
                           ),
                           TableCell(
                             child: Text("Informação",
