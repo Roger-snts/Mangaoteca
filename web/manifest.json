@@ -1,6 +1,6 @@
 {
-    "name": "aula_5_biblioteca",
-    "short_name": "aula_5_biblioteca",
+    "name": "mangaoteca",
+    "short_name": "mangaoteca",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
