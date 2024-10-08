@@ -2,7 +2,7 @@
 
 Um projeto de consulta de alguns mangás para dispositivos móveis.
 
-Acesso WEB: []
+Acesso WEB: [Mangaoteca Site](https://roger-snts.github.io/Mangaoteca/)
 
 ## Getting Started
 
